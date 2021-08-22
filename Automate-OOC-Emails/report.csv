@@ -1,0 +1,9 @@
+Phone Number,Serial Number,Model,Current Carrier Network,Device Custom Attributes
+123456789,ASDFGASDFFDG,iPad Air,AT&T,"{""devicerole"":[""Manager""],""devicelocation"":[""Property 123""]}"
+987654321,FASDSFHSGWRE,iPad Air,AT&T,"{""devicerole"":[""IT""],""devicelocation"":[""Property 1234123412""]}"
+456123789,DFADFDFSDFAD,iPad Air 2,Verizon,"{""devicerole"":[""Manager""],""devicelocation"":[""Property A""]}"
+123789456,ASDGADSAFSDA,iPad Pro 9.7 inch,AT&T,"{""devicerole"":[""Manager""],""devicelocation"":[""Property B""]}"
+987321654,ASDFASDGASDF,iPad Mini 2nd gen,AT&T,"{""devicerole"":[""Maintenance""],""devicelocation"":[""Property 123""]}"
+321321321,SGFSDFGSDFGF,iPad Mini 4,AT&T,"{""devicerole"":[""CEO""],""devicelocation"":[""Property A""]}"
+654987852,DSFFGFGFGFGG,iPad 6th gen,AT&T,"{""devicerole"":[""CIO""],""devicelocation"":[""Property 123""]}"
+Report Created At,,"Jan 01, 0001 1:01:00.111 AM UTC",,
